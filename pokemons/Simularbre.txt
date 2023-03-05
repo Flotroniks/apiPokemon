@@ -1,0 +1,2634 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html class="no-js " lang="fr">
+<head><script src="/amaze-alls-Macb-What-a-Frontred-Gulfe-is-Wife-st" async></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta http-equiv="Content-Language" content="fr" />
+  <meta name="language" content="fr" />
+  <link rel="shortcut icon" href="https://assets.pokemon.com/static2/_ui/img/favicon.ico" />
+
+  <title>Simularbre | Pokédex</title>
+  
+  
+  <meta property="og:image" content="https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png" />
+  <meta property="og:image:width" content="215" />
+  <meta property="og:image:height" content="215" />
+  <meta property="og:description" content="Il prend l’apparence d’un arbre pour éviter les attaques, mais il déteste l’eau et fuit la pluie." />
+  <meta property="og:title" content="Simularbre | Pokédex | En voir d’autres sur Pokemon.fr" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:image" content="https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png" />
+
+
+
+
+  <meta name="description" content="Il prend l’apparence d’un arbre pour éviter les attaques, mais il déteste l’eau et fuit la pluie." />
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <link rel="stylesheet" href="https://assets.pokemon.com/static2/_ui/css/main.css" />
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css' />
+
+  
+  
+  <link rel="alternate" hreflang="fr" href="https://www.pokemon.com/fr/pokedex/simularbre" />
+  <link rel="alternate" hreflang="en" href="https://www.pokemon.com/us/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-do" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="de" href="https://www.pokemon.com/de/pokedex/mogelbaum" />
+  <link rel="alternate" hreflang="it" href="https://www.pokemon.com/it/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-py" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-cl" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="pt-br" href="https://www.pokemon.com/br/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-gt" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="fi" href="https://www.pokemon.com/fi/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-mx" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es" href="https://www.pokemon.com/es/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="en-gb" href="https://www.pokemon.com/uk/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="ru" href="https://www.pokemon.com/ru/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-hn" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="nl" href="https://www.pokemon.com/nl/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-uy" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-bo" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-ar" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="nb" href="https://www.pokemon.com/no/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="sv" href="https://www.pokemon.com/se/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-cr" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-pe" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-co" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-pa" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="es-sv" href="https://www.pokemon.com/el/pokedex/sudowoodo" />
+  <link rel="alternate" hreflang="da" href="https://www.pokemon.com/dk/pokedex/sudowoodo" />
+
+    <!-- google search appliance meta tags -->
+<meta name="pkm-title" content="Simularbre" /><meta name="pkm-category" content="pokedex" /><meta name="pkm-image" content="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/185.png" /><meta name="pkm-id" content="185" />
+
+<script src="https://assets.pokemon.com/static2/_ui/js/vendor/modernizr.custom.js"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-V9L7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-V9L7');</script>
+<!-- End Google Tag Manager -->
+
+
+  <!-- START: GOOGLE TAG MANAGER - PAGE DETAILS -->
+
+  <!-- END: GOOGLE TAG MANAGER - PAGE DETAILS -->
+
+
+  <script>
+    // TODO: this should be moved to a better place in the application
+    // needed for image deferred loading in sliders
+    window.addEventListener('load', function(){
+      window.loaded = true;
+    });
+  </script>
+
+
+  <script>
+    window.token = "k2FZWSLIqk1w0CWlzpjvGMAlbdaK7csaVvmTqHOa9XnhbmBLcoLcQeVg0HOmCpJx";
+    window.mockAPI = false;
+    window.loginURL = '/fr/club-des-dresseurs-pokemon/login';
+    window.pokemonUI = window.pokemonUI || {};
+
+    window.pokemonUI.countryCode = 'fr'.replace('/', '');
+    window.pokemonUI.api = {
+      'user-details': 'https://www.pokemon.com/api/users/details',
+      'base-url-secure': 'https://www.pokemon.com',
+
+      'gsa': '/us/search/api/'
+
+    };
+
+    window.pokemonUI.config = {
+        'collection': 'production_pokemon_collection'
+    };
+
+    window.pokemonUI.modals = window.pokemonUI.modals || {};
+    window.pokemonUI.modals = {
+      "season": "Saison",
+      "episode": "Épisode",
+      "legal": "Attention : si vous cliquez sur le lien vers la vidéo YouTube, vous quitterez www.pokemon.fr. The Pokémon Company International décline toute responsabilité quant au contenu des sites Web vers lesquels des liens sont proposés et qu’elle ne gère pas. Veuillez noter que les politiques de sécurité et de protection de la vie privée de ces sites Web peuvent différer des normes appliquées par The Pokémon Company International.",
+      
+      "twitchlegal": "Note : si vous cliquez sur la vidéo Twitch ci-dessus, vous quitterez le site web de Pokemon. The Pokémon Company International décline toute responsabilité quant au contenu des sites Web vers lesquels des liens sont proposés et qui ne sont pas gérés par elle. Les politiques de sécurité et de protection de la vie privée de ces sites Web peuvent différer des normes appliquées par The Pokémon Company International.",
+    };
+    window.pokemonUI.dictionary = window.pokemonUI.dictionary || {};
+    window.pokemonUI.dictionary.dashboard = {
+      "youRecentlyPurchased": "Acquisition(s) récente(s)",
+      "shopMore": "Continuer les achats"
+    };
+    window.pokemonUI.global_dictionary = window.pokemonUI.global_dictionary || {};
+    window.pokemonUI.global_dictionary.search = {
+        'searchUrl': '/fr/recherche/',
+        'GSALanguageCode': 'fr'.replace('/', ''),
+        'sortBy': 'Trier par :',
+        'filterBy': 'Filtrer par :',
+        'selectCategory': 'Tout voir',
+        'mostRelevant': 'Plus pertinent',
+        'mostRecent': 'Plus récent',
+        'returnedResults': 'XXXXX résultats',
+        'recommendedResults': 'Résultats recommandés',
+        'playGame': 'Jouer',
+        'all': {title : 'Tout voir'},
+        'pokedex' : {title : 'Pokédex'},
+        'videogames' : {title : 'Jeu Vidéo'},
+        'tcg' : {title : 'Jeu de Cartes à Collectionner'},
+        'funzone' : {title : 'Jeux en ligne'},
+        'animation' : {title : 'TV Pokémon'},
+        'news' : {title : 'Actus'},
+        'events' : {title : 'Évènements'},
+        'strategy' : {title : 'Stratégie'},
+        
+        "numberPrefix": "No.\u0026nbsp\u003B"
+    };
+    window.pokemonUI.global_dictionary.datatables = {
+        'search': 'Rechercher :',
+        'previous': 'Précédent',
+        'next': 'Suivant',
+        'emptyTable': "Aucune donnée n\u0027est disponible.",
+        'zeroRecords': "Aucun enregistement n\u0027a été trouvé."
+    };
+    window.pokemonUI.global_dictionary.errorMessages = {
+        
+        'dataError': 'Actuellement indisponible. Veuillez réessayer plus tard.'
+    };
+    window.pokemonUI['ui-path'] = 'https://assets.pokemon.com/static2/_ui/'
+
+    window.pokemonUI.global_api = {
+
+       'gsa': '/us/search/api/',
+ 
+       'status-indicators': {
+            'game-server-status': '/api/tcg/game_server_status',
+            'tcgo-in-maintenance': '/api/tcg/in_maintenance_status',
+            'notifications': 'https://www.pokemon.com/api/user/notifications/config'
+        }
+    };
+
+    
+
+    window.pokemonUI.cookie = {
+        set: function (name, value, days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name+"="+value+expires+"; path=/";
+        },
+
+        get:function(name){
+            var nameEQ = name + '=',
+                ca = document.cookie.split(';'),
+                c, i = 0, ii = 0;
+
+            for(i = 0, ii = ca.length; i < ii; i++) {
+                c = ca[i];
+
+                while(c.charAt(0) === ' '){
+                    c = c.substring(1, c.length);
+                }
+
+                if(c.indexOf(nameEQ) === 0){
+                    var value = c.substring(nameEQ.length, c.length);
+                    if (value.charAt(0) == '"' && value.charAt(value.length-1) == '"') {
+                        value = value.substring(1,value.length-1);
+                    }
+                    return value;
+                }
+            }
+            return null;
+        }
+    };
+    
+    window.pokemonUI.cookie.set("django_language", "fr", 365);
+    
+
+    
+
+    
+    window.enableDashboard = true;
+    
+  </script>
+
+
+  <script>
+    window.pokemonUI.api = window.pokemonUI.api || {};
+    window.pokemonUI.api['pokedex'] = '/fr/api/pokedex/';
+    window.pokemonUI.collectiblesSlug = "collectible-sudowoodo";
+  </script>
+  <script>
+window.pokemonUI = window.pokemonUI || {};
+window.pokemonUI.collectibles = window.pokemonUI.collectibles || {};
+window.pokemonUI.collectibles.toggles = {
+  addToCollection: "Ajouter à ma collection",
+  addToWishlist: "Ajouter à ma liste Objets recherchés",
+  addToTradelist: "Ajouter à ma liste d'échanges",
+  friendsHaveThis: "0 amis possèdent ceci",
+  friendsWantThis: "0 amis recherchent ceci",
+  friendsTradeThis: "0 amis souhaitent échanger ceci"
+};
+window.pokemonUI.collectibles.friends = {
+  tradeWithFriends: "Échanger avec mes amis",
+  canTrade: "Vous pouvez échanger cet objet de collection avec ces amis :",
+  cannotTrade: "Si vous ajoutez cet objet à votre collection, vos objets recherchés ou vos objets à échanger, vous pourrez faire des échanges avec vos amis !",
+  noFriends: "Aucun de vos amis ne peut échanger cet objet avec vous."
+};
+window.pokemonUI.collectibles.compare = {
+  yourCollectibles: "Vos objets de collection",
+  friendCollectibles: "Objets de collection"
+};
+window.pokemonUI.collectibles.search = {
+  
+  zeroResults: "Aucune résultat trouvé avec ces filtres."
+}
+</script>
+
+
+  <script>
+    
+    window.pokemonUI.collectibles.friends['canTrade'] = 'Vous pouvez échanger ce Pokémon avec ces amis :';
+    
+    window.pokemonUI.collectibles.friends['cannotTrade'] = 'Si vous ajoutez ce Pokémon à votre collection, vos objets recherchés ou vos objets à échanger, vous pourrez faire des échanges avec vos amis !';
+  </script>
+
+
+
+
+
+
+  <link rel="stylesheet" href="https://assets.pokemon.com/static2/_ui/css/pokedex.css" />
+  
+    
+  <link rel="image_src" href="https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png" />
+    
+  
+
+
+
+  <script data-main="https://assets.pokemon.com/static2/_ui/js/pokemon-detail.js" src="https://assets.pokemon.com/static2/_ui/js/vendor/require.js"></script>
+
+
+
+
+
+<link rel="stylesheet" href="https://assets.pokemon.com/static2/_ui/css/gus.css" media="all" type="text/css"/>
+<link rel="stylesheet" href="https://assets.pokemon.com/static2/_ui/css/gus_integration.css" />
+
+</head>
+<body class="fr fluid custom-form-elements 
+
+">
+
+
+    <div id='gus-wrapper'>
+<div class="pokemon-gus-container" data-site="pcom" data-locale="fr" data-api="https://www.pokemon.com/api/gus/" data-width="913px"></div>
+</div>
+
+
+
+
+
+  
+    
+
+
+
+
+
+<div class="main-filler"></div>
+<nav class="main">
+
+    
+
+    <div class="blocker"></div>
+
+    <div class="content-wrapper">
+
+        <div class="nav-bar">
+            <a href="#" class="nav-toggle"><span
+                    class="icon icon_hamburger"></span></a>
+
+            <ul class="dashboard-open visible-mobile">
+                <li class="visible-signed-in">
+                    <a href="/fr/club-des-dresseurs-pokemon/login">
+                        <div class="avatar-icon-wrapper">
+                            <img class="avatar-icon avatar-icon-mobile"
+                                 src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-avatar.png"
+                                 alt="Voir le profil"/>
+                        </div>
+                    </a>
+                </li>
+
+                <li class="visible-not-signed-in">
+                    <a href="/fr/club-des-dresseurs-pokemon/login">
+                        <div class="avatar-icon-wrapper">
+                            <img class="avatar-icon avatar-icon-mobile"
+                                src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-signup.png"
+                                alt="Se connecter/s'inscrire"/>
+                        </div>
+                        <div class="sign-in-text-wrapper sign-in-text-wrapper-mobile">
+                            Connexion
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        
+        <ul data-analytics-label="primary-nav">
+
+  
+
+
+<li class="home">
+  <a href="/fr/"
+     
+     
+     
+     target="_self"
+     data-content-id=""
+     data-content-type="Sidebar"
+     data-content-variation="sidebarLeft"
+     data-content-location=""
+     data-content-category=""
+     data-content-download="">
+    <span class="fill"></span>
+
+    <span class="icon icon_home">
+        
+        
+        
+    </span>
+
+    <span class="title title_home">Accueil</span>
+  </a>
+
+
+
+</li>
+
+
+
+<li class="explore">
+  <a href="/fr/pokedex/"
+     
+     
+     
+     target="_self"
+     data-content-id=""
+     data-content-type="Sidebar"
+     data-content-variation="sidebarLeft"
+     data-content-location=""
+     data-content-category=""
+     data-content-download="">
+    <span class="fill"></span>
+
+    <span class="icon icon_pokeball">
+        
+        
+        
+    </span>
+
+    <span class="title title_pokeball">Pokédex</span>
+  </a>
+
+
+
+</li>
+
+
+
+<li class="watch">
+  <a href="/fr/jeux-video-pokemon/"
+     
+     
+     
+     target="_self"
+     data-content-id=""
+     data-content-type="Sidebar"
+     data-content-variation="sidebarLeft"
+     data-content-location=""
+     data-content-category=""
+     data-content-download="">
+    <span class="fill"></span>
+
+    <span class="icon icon_joystick">
+        
+        
+        
+    </span>
+
+    <span class="title title_joystick">Jeux vidéo et applis</span>
+  </a>
+
+
+
+</li>
+
+
+
+<li class="play">
+  <a href="/fr/jcc-pokemon/"
+     
+     
+     
+     target="_self"
+     data-content-id=""
+     data-content-type="Sidebar"
+     data-content-variation="sidebarLeft"
+     data-content-location=""
+     data-content-category=""
+     data-content-download="">
+    <span class="fill"></span>
+
+    <span class="icon icon_cards">
+        
+        
+        
+    </span>
+
+    <span class="title title_cards">Jeu de Cartes à Collectionner</span>
+  </a>
+
+<a href="#" class="subnav-toggle"><span class="icon"></span></a>
+
+<ul class="subnav secondary">
+
+    <li class="subnav-title"
+        data-content-id=""
+        data-content-type="Sidebar"
+        data-content-variation="sidebarLeft"
+        data-content-location=""
+        data-content-category=""
+        data-content-download="">
+        <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+        <a href="#"><span class="title">Jeu de Cartes à Collectionner</span></a>
+    </li>
+
+
+    
+<li>
+    <a href="/fr/jcc-pokemon/jouer-en-ligne/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">JCC Pokémon Online</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/fr/jcc-pokemon/jouer-en-ligne/classements/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Classement du JCC Pokémon Online</a>
+    
+    
+    
+</li>
+
+
+</ul>
+
+
+</li>
+
+
+
+<li class="attend">
+  <a href="/fr/episodes-pokemon/"
+     
+     
+     
+     target="_self"
+     data-content-id=""
+     data-content-type="Sidebar"
+     data-content-variation="sidebarLeft"
+     data-content-location=""
+     data-content-category=""
+     data-content-download="">
+    <span class="fill"></span>
+
+    <span class="icon icon_pokemontv">
+        
+        
+        
+    </span>
+
+    <span class="title title_pokemontv">TV Pokémon</span>
+  </a>
+
+
+
+</li>
+
+
+
+<li class="trade">
+  <a href="/fr/play-pokemon/"
+     
+     
+     
+     target="_self"
+     data-content-id=""
+     data-content-type="Sidebar"
+     data-content-variation="sidebarLeft"
+     data-content-location=""
+     data-content-category=""
+     data-content-download="">
+    <span class="fill"></span>
+
+    <span class="icon icon_event">
+        
+        
+        
+    </span>
+
+    <span class="title title_event">Évènements Play! Pokémon</span>
+  </a>
+
+<a href="#" class="subnav-toggle"><span class="icon"></span></a>
+
+<ul class="subnav secondary">
+
+    <li class="subnav-title"
+        data-content-id=""
+        data-content-type="Sidebar"
+        data-content-variation="sidebarLeft"
+        data-content-location=""
+        data-content-category=""
+        data-content-download="">
+        <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+        <a href="#"><span class="title">Évènements Play! Pokémon</span></a>
+    </li>
+
+
+    
+<li>
+    <a href="/fr/play-pokemon/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Évènements</a>
+    
+    <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+
+<ul class="subnav tertiary">
+
+    <li class="subnav-title"
+        data-content-id=""
+        data-content-type="Sidebar"
+        data-content-variation="sidebarLeft"
+        data-content-location=""
+        data-content-category=""
+        data-content-download="">
+        <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+        <a href="#"><span class="title">Évènements</span></a>
+    </li>
+
+
+    
+<li>
+    <a href="/fr/play-pokemon/a-propos/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Au sujet de Play! Pokémon</a>
+    
+    <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+
+<ul class="subnav tertiary">
+
+    <li class="subnav-title"
+        data-content-id=""
+        data-content-type="Sidebar"
+        data-content-variation="sidebarLeft"
+        data-content-location=""
+        data-content-category=""
+        data-content-download="">
+        <a href="#" class="subnav-toggle"><span class="icon"></span></a>
+        <a href="#"><span class="title">Au sujet de Play! Pokémon</span></a>
+    </li>
+
+
+    
+<li>
+    <a href="/fr/play-pokemon/a-propos/tournoi-experience/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">L’esprit du jeu</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/fr/play-pokemon/a-propos/play-points/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Les Play! Points</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/fr/play-pokemon/a-propos/tournois-regles-et-ressources/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Règles et ressources</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/fr/play-pokemon/a-propos/tournois-glossaire/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Glossaire de Play! Pokémon</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/fr/play-pokemon/a-propos/guide-parents/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Guide parental</a>
+    
+    
+    
+</li>
+
+
+</ul>
+
+    
+</li>
+<li>
+    <a href="/fr/play-pokemon/evenements-pokemon/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Les tournois Pokémon</a>
+    
+    
+    
+</li>
+<li>
+    <a href="/fr/play-pokemon/organiser/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Organiser</a>
+    
+    
+    
+</li>
+
+
+</ul>
+
+    
+</li>
+<li>
+    <a href="/fr/play-pokemon/classements/"
+       
+       
+       
+       data-content-id=""
+       data-content-type="Sidebar"
+       data-content-variation="sidebarLeft"
+       data-content-location=""
+       data-content-category=""
+       data-content-download=""
+       target="_self">Classement de Play! Pokémon</a>
+    
+    
+    
+</li>
+
+
+</ul>
+
+
+</li>
+
+
+
+<li class="game last-item">
+  <a href="/fr/actus-pokemon/"
+     
+     
+     
+     target="_self"
+     data-content-id=""
+     data-content-type="Sidebar"
+     data-content-variation="sidebarLeft"
+     data-content-location=""
+     data-content-category=""
+     data-content-download="">
+    <span class="fill"></span>
+
+    <span class="icon icon_news">
+        
+        
+        
+    </span>
+
+    <span class="title title_news">Actualités</span>
+  </a>
+
+
+
+</li>
+
+
+
+    <li class="search">
+        <div class="search-wrapper">
+            <form id="mobile-nav-site-search-widget" action="/recherche/" method="GET">
+                <input id="mobile-search" type="search" value="" placeholder="Rechercher" name="q"
+                       id="mobile-nav-site-search-widget-term"/>
+                <span class="icon icon_search"></span>
+            </form>
+        </div>
+    </li>
+</ul>
+
+
+        
+    </div>
+
+</nav>
+
+
+  
+  
+    
+    
+      
+
+
+
+
+
+<div id="user-dashboard" class="
+
+    default-background
+
+">
+
+    <div class="drawer">
+
+        <nav class="profile-nav hidden-mobile">
+
+            <ul class="dashboard-open">
+                <li class="visible-not-signed-in sign-up">
+                    <a href="https://club.pokemon.com/fr/club-des-dresseurs-pokemon/login">
+                        <span class="">
+                            <div class="avatar-icon-wrapper">
+                                <img class="avatar-icon" src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-signup.png"
+                                     alt="Sign In"/>
+                            </div>
+                            <div class="sign-in-text-wrapper">
+                                Connexion
+                            </div>
+                        </span>
+                    </a>
+                </li>
+
+                <li class="visible-signed-in">
+                    <a href="https://club.pokemon.com/fr/club-des-dresseurs-pokemon/editer-profil/">
+                        <span class="">
+                            <div class="avatar-icon-wrapper">
+                                <img class="avatar-icon"
+                                     src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-avatar.png"
+                                     alt="Profile"/>
+                            </div>
+                        </span>
+                    </a>
+                </li>
+
+                
+                    <li class="visible-signed-in organizer-link">
+                        <a href="/fr/club-des-dresseurs-pokemon/play-pokemon/evenements/">
+                            <span class="" >
+                                <div class="organizer-icon-wrapper">
+                                    <img class="organizer-icon default" alt="Profil"
+                                         src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-builder.png" />
+                                    <img class="organizer-icon ie9-hover" alt="Profil"
+                                         src="https://assets.pokemon.com/static2/_ui/img/chrome/profile-navigation/profile-nav-builder-ie9-hover.png" />
+                                    <span class="offscreen">Profil</span>
+                                </div>
+                            </span>
+                        </a>
+                    </li>
+                
+
+                <li class="visible-signed-in sign-in" id="sidebar-logout-button">
+                    <a href="/fr/club-des-dresseurs-pokemon/logout">
+                        <span>Déconnexion</span>
+                    </a>
+                </li>
+
+            </ul>
+            <div class="search">
+                <a class="icon icon_search" href="">
+                    <span class="offscreen"></span>
+                </a>
+            </div>
+            <div class="bottom-angle"></div>
+        </nav>
+
+        <div class="dashboard"></div>
+
+    </div>
+
+</div>
+
+    
+    
+  
+
+
+  <div class="container
+  
+  ">
+    
+    
+    
+    
+      
+
+  
+
+<section class="section pokedex-pokemon-header overflow-visible">
+  <div class="pokedex-pokemon-pagination">
+    <a href="/fr/pokedex/azumarill" class="previous">
+      <div class="pokedex-pokemon-pagination-wrapper">
+        <span class="icon icon_arrow_sm_left"></span>
+        <span class="pokemon-number">No.&nbsp;0184</span>
+        <span class="pokemon-name hidden-mobile">Azumarill</span>
+      </div>
+    </a>
+
+    <a href="/fr/pokedex/tarpaud" class="next">
+      <div class="pokedex-pokemon-pagination-wrapper">
+        <span class="icon icon_arrow_sm_right"></span>
+        <span class="pokemon-number">No.&nbsp;0186</span>
+        <span class="pokemon-name hidden-mobile">Tarpaud</span>
+      </div>
+    </a>
+  </div>
+  <div class="pokedex-pokemon-pagination-title">
+    <div>
+      Simularbre
+      <span class="pokemon-number">No.&nbsp;0185</span>
+    </div>
+  </div>
+</section>
+
+  <section class="section pokedex-pokemon-form">
+  <div class="column-12 push-1">
+    <div class="styled-select button-black right">
+
+
+
+    </div>
+  </div>
+</section>
+
+  
+
+
+
+
+
+
+<section class="section pokedex-pokemon-details">
+  <div class="column-6 push-1">
+    <div class="pokedex-pokemon-profile">
+      <div class="profile-images">
+
+  
+        <img class="active" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png" alt="Simularbre" />
+  
+
+      </div>
+    </div>
+
+  
+      <div class="pokemon-stats-info active">
+            <h3>Stats de base</h3>
+    
+            <ul>
+              <li class="first">
+                <ul class="gauge">
+                  <li data-value="5" class="meter"></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
+                <span>PV</span>
+              </li>
+
+              <li>
+                <ul class="gauge">
+                  <li data-value="6" class="meter"></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
+                <span>Attaque</span>
+              </li>
+
+              <li>
+                <ul class="gauge">
+                  <li data-value="7" class="meter"></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
+                <span>Défense</span>
+              </li>
+
+              <li>
+                <ul class="gauge">
+                  <li data-value="2" class="meter"></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
+                <span>Attaque Spéciale</span>
+              </li>
+
+              <li>
+                <ul class="gauge">
+                  <li data-value="4" class="meter"></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
+                <span>Défense Spéciale</span>
+              </li>
+
+              <li>
+                <ul class="gauge">
+                  <li data-value="2" class="meter"></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
+                </ul>
+                <span>Vitesse</span>
+              </li>
+            </ul>
+    
+      </div>
+  >
+
+  </div> <!-- column-6 push-1 -->
+
+  <div class="column-6 push-7">
+    <div class="pokedex-pokemon-details-right">
+    
+          <div class="version-descriptions active">
+          
+            
+                <p class="version-y
+                                  ">
+                  Il prend l’apparence d’un arbre pour éviter les attaques, mais il déteste l’eau et fuit la pluie.
+                </p>
+            
+                <p class="version-x
+                                  active">
+                  Bien qu’il fasse semblant d’être un arbre, par sa composition, il semble plus proche d’un minéral que d’un végétal.
+                </p>
+            
+          
+          </div>
+    
+
+      <h3>Versions :</h3>
+      <div class="version-labels">
+        <span class="version-label version-x active"><i class="icon icon_pokeball"></i></span>
+        <span class="version-label version-y"><i class="icon icon_pokeball"></i></span>
+      </div>
+
+      <div class="info match-height-tablet">
+
+
+        <div class="pokemon-ability-info color-bg color-lightblue match active">
+
+          <div class="column-7">
+            <ul>
+              <li>
+                <span class="attribute-title">Taille</span>
+                <span class="attribute-value">1,2 m</span>
+              </li>
+
+              <li>
+                <span class="attribute-title">Poids</span>
+                <span class="attribute-value">38,0 kg</span>
+              </li>
+
+              <li>
+                <span class="attribute-title">Sexe</span>
+  
+                <span class="attribute-value">
+    <i class="icon icon_male_symbol"></i>
+    <i class="icon icon_female_symbol"></i>
+                </span>
+  
+              </li>
+            </ul>
+          </div>
+
+          <div class="column-7 push-7">
+            <ul>
+              <li>
+                <span class="attribute-title">Catégorie</span>
+                <span class="attribute-value">Imitation</span>
+              </li>
+              
+              <li>
+                <span class="attribute-title">Talent</span>
+
+                <ul class="attribute-list">
+  
+                  <li>
+                    <a href="" class="moreInfo">
+                      <span class="attribute-value">Tête de Roc</span>
+                    </a>
+                  </li>
+  
+                  <li>
+                    <a href="" class="moreInfo">
+                      <span class="attribute-value">Fermeté</span>
+                    </a>
+                  </li>
+  
+                </ul>
+              </li>
+              
+            </ul>
+          </div>
+
+  
+          <div class="pokemon-ability-info-detail match">
+            <span class="button-close">
+              <i class="icon icon_multiply"></i>Fermer</span>
+            <span class="title">Infos sur les talents</span>
+            <h3>Tête de Roc</h3>
+            <p>Le Pokémon peut utiliser des capacités occasionnant un contrecoup sans perdre de PV.</p>
+          </div>
+  
+          <div class="pokemon-ability-info-detail match">
+            <span class="button-close">
+              <i class="icon icon_multiply"></i>Fermer</span>
+            <span class="title">Infos sur les talents</span>
+            <h3>Fermeté</h3>
+            <p>Le Pokémon encaisse toujours au moins une attaque s’il a tous ses PV. Il est également immunisé contre les capacités pouvant mettre K.O. en un coup.</p>
+          </div>
+  
+
+        </div> <!-- pokemon-ability-info color-bg color-lightblue match -->
+
+        <div class="pokedex-pokemon-attributes active">
+	        <div class="dtm-type">
+	          <h3>Type</h3>
+	          <ul>
+	            <li class="background-color-rock">
+              
+	              <a href="/fr/pokedex/?type=rock">Roche</a>
+              
+	            </li>
+	
+	          </ul>
+          </div> <!-- dtm-type -->
+
+	        <div class="dtm-weaknesses">
+	          <h3>Faiblesse(s)</h3>
+	          <ul>
+	
+	            <li class="background-color-water first">
+              
+	              <a href="/fr/pokedex/?weakness=water">
+              
+	                <span>Eau
+	  
+	                </span>
+	              </a>
+	            </li>
+  
+	            <li class="background-color-steel middle">
+              
+	              <a href="/fr/pokedex/?weakness=steel">
+              
+	                <span>Acier
+	  
+	                </span>
+	              </a>
+	            </li>
+  
+	            <li class="background-color-grass last">
+              
+	              <a href="/fr/pokedex/?weakness=grass">
+              
+	                <span>Plante
+	  
+	                </span>
+	              </a>
+	            </li>
+  
+	            <li class="background-color-fighting first">
+              
+	              <a href="/fr/pokedex/?weakness=fighting">
+              
+	                <span>Combat
+	  
+	                </span>
+	              </a>
+	            </li>
+  
+	            <li class="background-color-ground middle">
+              
+	              <a href="/fr/pokedex/?weakness=ground">
+              
+	                <span>Sol
+	  
+	                </span>
+	              </a>
+	            </li>
+  
+	          </ul>
+          </div> <!-- dtm-weaknesses -->
+           
+        </div> <!-- pokedex-pokemon-attributes -->
+
+  
+      </div> <!-- info match-height-tablet -->
+
+      <div class="collectibles-detail-friends"></div>
+    </div>
+  </div>
+</section>
+
+  
+    
+
+<section class="section pokedex-pokemon-evolution evolution-two">
+
+    <div class="column-12 push-1 dog-ear-bl">
+
+        <h2>Évolutions</h2>
+
+        <ul class="evolution-profile match-height-tablet">
+            
+                <li class="first">
+                    
+
+
+
+<a href="/fr/pokedex/manzai">
+
+    
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/438.png"
+        alt="Manzaï" />
+    <h3 class="match">
+        Manzaï
+        <span class="pokemon-number">
+            No.&nbsp;0438
+        </span>
+    </h3>
+    
+    <ul class="evolution-attributes match-height">
+        <li class="background-color-rock match">Roche</li>
+        
+    </ul>
+</a>
+
+                </li>
+            
+                <li class="last">
+                    
+
+
+
+<a href="/fr/pokedex/simularbre">
+
+    
+    <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png"
+        alt="Simularbre" />
+    <h3 class="match">
+        Simularbre
+        <span class="pokemon-number">
+            No.&nbsp;0185
+        </span>
+    </h3>
+    
+    <ul class="evolution-attributes match-height">
+        <li class="background-color-rock match">Roche</li>
+        
+    </ul>
+</a>
+
+                </li>
+            
+        </ul>
+    </div>
+
+</section>
+  
+  
+
+<section class="section pokedex-pokemon-share no-padding-top">
+
+	<div class="column-12 push-1">
+
+		<div class="content-block content-block-half-first">
+
+
+		</div>
+
+		<div class="content-block content-block-half">
+		
+			<a href="/fr/pokedex/" class="button button-orange right">Plus de Pokémon</a>
+		
+		</div>
+	</div>
+
+</section>
+
+
+  
+    <!--googleoff: index-->
+    
+      
+
+<section id="homepage-video-slider"
+         class="slider-widget generic-slider video-slider preload-images
+  
+  
+  
+  
+  slider-description
+  
+  ">
+
+
+  <div class="slider-title">
+    <div class="column-12 push-1">
+      <h3 class="pokemon-character-slider-title">
+        <span class="notch-left-top-outer"></span>
+        
+        <span class="icon icon_pokemontv"></span>
+        
+        Épisodes de TV Pokémon de Simularbre
+      </h3>
+    </div>
+  </div>
+
+
+
+  <div class="slider-wrapper">
+    <ul class="slider">
+    
+      
+
+
+<li class="match" data-analytics-label="S4 | Épisode 5 | Un imitateur hors pair | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep05_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">Un imitateur hors pair</h5>
+    
+    
+      <div class="description">S4 | Épisode 5</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/04_05-un-imitateur-hors-pair/" class="block-link" title="S4 | Épisode 5">
+    <span class="offscreen">
+      Un imitateur hors pair
+      -
+      S4 | Épisode 5
+    </span>
+  </a>
+  
+</li>
+
+    
+      
+
+
+<li class="match" data-analytics-label="S11 | Épisode 21 | La coupe est pleine | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">La coupe est pleine</h5>
+    
+    
+      <div class="description">S11 | Épisode 21</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/11_21-la-coupe-est-pleine/" class="block-link" title="S11 | Épisode 21">
+    <span class="offscreen">
+      La coupe est pleine
+      -
+      S11 | Épisode 21
+    </span>
+  </a>
+  
+</li>
+
+    
+      
+
+
+<li class="match" data-analytics-label="S11 | Épisode 33 | Vaincre ses peurs | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">Vaincre ses peurs</h5>
+    
+    
+      <div class="description">S11 | Épisode 33</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/11_33-vaincre-ses-peurs/" class="block-link" title="S11 | Épisode 33">
+    <span class="offscreen">
+      Vaincre ses peurs
+      -
+      S11 | Épisode 33
+    </span>
+  </a>
+  
+</li>
+
+    
+      
+
+
+<li class="match" data-analytics-label="S9 | Épisode 28 | Tout ce qui brille n&#39;est pas or | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep28_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">Tout ce qui brille n'est pas or</h5>
+    
+    
+      <div class="description">S9 | Épisode 28</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/09_28-tout-ce-qui-brille-nest-pas-or/" class="block-link" title="S9 | Épisode 28">
+    <span class="offscreen">
+      Tout ce qui brille n'est pas or
+      -
+      S9 | Épisode 28
+    </span>
+  </a>
+  
+</li>
+
+    
+      
+
+
+<li class="match" data-analytics-label="S10 | Épisode 14 | Les talents de Pierre | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep14_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">Les talents de Pierre</h5>
+    
+    
+      <div class="description">S10 | Épisode 14</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/10_14-les-talents-de-pierre/" class="block-link" title="S10 | Épisode 14">
+    <span class="offscreen">
+      Les talents de Pierre
+      -
+      S10 | Épisode 14
+    </span>
+  </a>
+  
+</li>
+
+    
+      
+
+
+<li class="match" data-analytics-label="S13 | Épisode 28 | Questions de mouvements | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep28_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">Questions de mouvements</h5>
+    
+    
+      <div class="description">S13 | Épisode 28</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/13_28-questions-de-mouvements/" class="block-link" title="S13 | Épisode 28">
+    <span class="offscreen">
+      Questions de mouvements
+      -
+      S13 | Épisode 28
+    </span>
+  </a>
+  
+</li>
+
+    
+      
+
+
+<li class="match" data-analytics-label="S12 | Épisode 2 | Sauve qui peut ! | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep02_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">Sauve qui peut !</h5>
+    
+    
+      <div class="description">S12 | Épisode 2</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/12_02-sauve-qui-peut/" class="block-link" title="S12 | Épisode 2">
+    <span class="offscreen">
+      Sauve qui peut !
+      -
+      S12 | Épisode 2
+    </span>
+  </a>
+  
+</li>
+
+    
+      
+
+
+<li class="match" data-analytics-label="S11 | Épisode 51 | Miaouss joue un double jeu | /us/pokedex/Simularbre"
+    data-content-id="item-episodes"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Episode"
+    data-content-download="">
+    
+
+    <div class="poster">
+        
+
+        <img data-preload-src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_ss01.jpg"
+                class="preload"
+                alt="None">
+    </div>
+
+  
+
+  <div class="text">
+     
+    <h5 class="title">Miaouss joue un double jeu</h5>
+    
+    
+      <div class="description">S11 | Épisode 51</div>
+    
+  </div>
+
+  <span class="notch-bottom-center-small"></span>
+
+  
+  <a href="/fr/episodes-pokemon/11_51-miaouss-joue-un-double-jeu/" class="block-link" title="S11 | Épisode 51">
+    <span class="offscreen">
+      Miaouss joue un double jeu
+      -
+      S11 | Épisode 51
+    </span>
+  </a>
+  
+</li>
+
+    
+    </ul>
+  </div><!-- class="slider-wrapper" -->
+
+
+
+  <div class="slider-more-button">
+    <div class="column-12 push-1">
+      <div class="content-block content-block-full">
+        <a class="button button-black right "
+           
+           
+           href="/fr/episodes-pokemon/">TV Pokémon</a>
+      </div>
+    </div>
+  </div>
+
+
+
+<noscript>
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/04_05-un-imitateur-hors-pair/">
+        <h5>Un imitateur hors pair</h5>
+        <span class="subtitle">S4 | Épisode 5</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep05_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/11_21-la-coupe-est-pleine/">
+        <h5>La coupe est pleine</h5>
+        <span class="subtitle">S11 | Épisode 21</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/11_33-vaincre-ses-peurs/">
+        <h5>Vaincre ses peurs</h5>
+        <span class="subtitle">S11 | Épisode 33</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/09_28-tout-ce-qui-brille-nest-pas-or/">
+        <h5>Tout ce qui brille n&#39;est pas or</h5>
+        <span class="subtitle">S9 | Épisode 28</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep28_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/10_14-les-talents-de-pierre/">
+        <h5>Les talents de Pierre</h5>
+        <span class="subtitle">S10 | Épisode 14</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep14_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/13_28-questions-de-mouvements/">
+        <h5>Questions de mouvements</h5>
+        <span class="subtitle">S13 | Épisode 28</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep28_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/12_02-sauve-qui-peut/">
+        <h5>Sauve qui peut !</h5>
+        <span class="subtitle">S12 | Épisode 2</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep02_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/11_51-miaouss-joue-un-double-jeu/">
+        <h5>Miaouss joue un double jeu</h5>
+        <span class="subtitle">S11 | Épisode 51</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+</noscript>
+
+</section>
+
+    
+    <!--googleon: index-->
+  
+  
+    
+
+<section id="trading-card-slider"
+         class="slider-widget generic-slider preload-images
+  
+  
+  
+  
+  slider-description
+  
+  ">
+
+
+  <div class="slider-title">
+    <div class="column-12 push-1">
+      <h3 class="pokemon-character-slider-title">
+        <span class="notch-left-top-outer"></span>
+
+        
+        <span class="icon icon_cards"></span>
+        
+        Cartes de Simularbre
+      </h3>
+    </div>
+  </div>
+
+
+
+  <div class="slider-wrapper">
+    <ul class="slider">
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/sma/SV20/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/SMA/SMA_FR_SV20.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">SV20</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/sma-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/swsh1/100/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/SWSH1/SWSH1_FR_100.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">100</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/swsh1-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/sm2/66/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/SM2/SM2_FR_66.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">66</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/sm2-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/sm8/110/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/SM8/SM8_FR_110.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">110</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/sm8-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/xy9/67/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/XY9/XY9_FR_67.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">67</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/xy9-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/swsh10/74/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/SWSH10/SWSH10_FR_74.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">74</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/swsh10-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/swsh11/94/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/SWSH11/SWSH11_FR_94.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">94</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/swsh11-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/dp5/48/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/DP5/DP5_FR_48.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">48</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/dp5-exp-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+      
+
+
+<li data-analytics-label="Simularbre |  | /us/pokedex/Simularbre"
+    data-content-id="item-cards"
+    data-content-type="Slider"
+    data-content-variation="slideCenter"
+    data-content-location=""
+    data-content-category="Card"
+    data-content-download=""
+    >
+    
+      <a href="/fr/jcc-pokemon/cartes-pokemon/series/hgss2/9/">
+    
+  <div class="card-img">
+    <img data-preload-src="https://assets.pokemon.com/assets/cms2-fr-fr/img/cards/web/HGSS2/HGSS2_FR_9.png"
+         alt="Simularbre"
+         class="preload">
+  </div>
+  <div class="card-name">
+    <h5>Simularbre</h5>
+    <span class="card-number">9</span>
+
+    <br style="clear:both;">
+    <img class="card-expansion-symbol" width="25" height="25" src="https://assets.pokemon.com/assets/cms2-fr-fr/img/trading-card-game/_symbols/expansion_symbol_25x25/hgss2-expansion-symbol.png">
+    <span class="expansion-name"></span>
+    <span class="notch-bottom-center-small"></span>
+  </div>
+  </a>
+</li>
+
+    
+    </ul>
+  </div><!-- class="slider-wrapper" -->
+
+
+
+  <div class="slider-more-button">
+    <div class="column-12 push-1">
+      <div class="content-block content-block-full">
+        <a class="button button-black right "
+           
+           
+           href="/fr/jcc-pokemon/cartes-pokemon/">Plus de cartes</a>
+      </div>
+    </div>
+  </div>
+
+
+
+<noscript>
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/04_05-un-imitateur-hors-pair/">
+        <h5>Un imitateur hors pair</h5>
+        <span class="subtitle">S4 | Épisode 5</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep05_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/11_21-la-coupe-est-pleine/">
+        <h5>La coupe est pleine</h5>
+        <span class="subtitle">S11 | Épisode 21</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep21_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/11_33-vaincre-ses-peurs/">
+        <h5>Vaincre ses peurs</h5>
+        <span class="subtitle">S11 | Épisode 33</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep33_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/09_28-tout-ce-qui-brille-nest-pas-or/">
+        <h5>Tout ce qui brille n&#39;est pas or</h5>
+        <span class="subtitle">S9 | Épisode 28</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep28_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/10_14-les-talents-de-pierre/">
+        <h5>Les talents de Pierre</h5>
+        <span class="subtitle">S10 | Épisode 14</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep14_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/13_28-questions-de-mouvements/">
+        <h5>Questions de mouvements</h5>
+        <span class="subtitle">S13 | Épisode 28</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season13/season13_ep28_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/12_02-sauve-qui-peut/">
+        <h5>Sauve qui peut !</h5>
+        <span class="subtitle">S12 | Épisode 2</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season12/season12_ep02_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+  
+<div>
+    <a href="/fr/episodes-pokemon/11_51-miaouss-joue-un-double-jeu/">
+        <h5>Miaouss joue un double jeu</h5>
+        <span class="subtitle">S11 | Épisode 51</span>
+        <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season11/season11_ep51_ss01.jpg" alt="None" />
+    </a>
+</div>
+
+
+</noscript>
+
+</section>
+  
+  
+
+<div id="pokedex-auth-error-modal" class="popup user-alert">
+  <div class="content">
+    <h3>Connexion requise</h3>
+    <p>Vous devez avoir un compte au Club des Dresseurs Pokémon pour enregistrer vos Pokémon préférés !</p>
+    <a href="/fr/club-des-dresseurs-pokemon/login?_rd=/fr/pokedex/simularbre" class="button arrow-left button-green sign-in">Connexion</a>
+    <a href="/fr/club-des-dresseurs-pokemon/inscription/" class="button button-blue signup">Inscription</a>
+    <a href="#" class="button no-arrow button-grey closeBtn">Non merci.</a>
+  </div>
+</div>
+
+<div id="pokedex-collectible-auth-error-modal" class="popup user-alert">
+  <div class="content">
+    <h3>Connexion requise</h3>
+    <p>Connectez-vous au Club des Dresseurs Pokémon pour ajouter des Pokémon à votre collection.</p>
+    <a href="/fr/club-des-dresseurs-pokemon/login?_rd=/fr/pokedex/simularbre" class="button arrow-left button-green sign-in">Connexion</a>
+    <a href="/fr/club-des-dresseurs-pokemon/inscription/" class="button button-blue signup">Inscription</a>
+    <a href="#" class="button no-arrow button-grey closeBtn">Non merci.</a>
+  </div>
+</div>
+
+
+
+    
+    
+    <!-- end of container -->
+  </div>
+
+  
+
+  
+
+  <div id="back-to-top" class="visible-mobile">
+    <span class="offscreen">Haut de la page</span>
+  </div>
+
+  <div class="footer-divider">
+    <span class="footer-notch"></span>
+  </div>
+
+  <footer class="global-footer">
+    <div class="content-wrapper match-height-tablet">
+      
+
+
+<div class="global-footer-links match">
+  <h2><span class="offscreen">The Pok&eacute;mon Company</span></h2>
+  <ul>
+    
+      
+      <li>
+        <a href="/fr/actus-pokemon/" rel="" title="">
+          Actualités
+        </a>
+      </li>
+      
+      <li>
+        <a href="/fr/guide-parents/"
+          rel=""
+          title="">
+          Guide parental sur Pokémon
+        </a>
+      </li>
+      <li>
+        <a href="/fr/service-client/" rel="" title="">
+          Service client
+        </a>
+      </li>
+      <li>
+        <a href="https://corporate.pokemon.com/fr-fr/" rel="" title="" id="about-our-company-link">
+          Au sujet de TPCi
+        </a>
+      </li>
+      
+    
+    <li>
+      <a href="/fr/pays-region/" rel="" title="">
+        Choisir un pays ou une région
+        <i class="icon-fr"></i>
+      </a>
+    </li>
+    <li>
+      <a id="press-link" href="https://pokemon.gamespress.com/fr" class="exit-link"
+        target="_blank"
+        rel="https://pokemon.gamespress.com/fr"
+        title="External: https://pokemon.gamespress.com/fr">
+        Site de la presse Pokémon
+      </a>
+    </li>
+    
+    
+    
+  </ul>
+</div>
+
+      
+      
+<div class="global-footer-social match">
+
+    <div class="footer-social-wrapper">
+        <div class="find-us">
+            <div class="find-us-box">
+
+
+                <a href="https://www.facebook.com/PokemonOfficielFR" class="facebook exit-link" target="_blank"
+                   title="External: https://www.facebook.com/PokemonOfficielFR">
+                    <span class="offscreen">Facebook</span>
+                </a>
+
+                <a href="https://www.youtube.com/user/PokemonOfficielFR" class="youtube exit-link" target="_blank"
+                   title="External: https://www.youtube.com/user/PokemonOfficielFR">
+                    <span class="offscreen">Youtube</span>
+                </a>
+
+                <a href="https://www.twitter.com/PokemonFR" class="twitter exit-link" target="_blank"
+                   title="External: https://www.twitter.com/PokemonFR">
+                    <span class="offscreen">Twitter</span>
+                </a>
+ 
+                <a href="https://www.instagram.com/pokemon.fra" class="instagram exit-link" target="_blank"
+                   title="External: https://www.instagram.com/pokemon.fra">
+                    <span class="offscreen">Instagram</span>
+                </a>
+
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+      
+      
+      
+
+<div class="global-footer-legal match">
+
+  <div class="footer-legal-wrapper">
+
+    <div id="footer--privacy">
+        <a
+            title="External: https://caru.bbbprograms.org/seal/Confirmation/1596150491"
+            
+            href="/fr/avis-de-confidentialite/"
+            
+            >
+        </a>
+      <ul>
+
+          <li>
+            <a href="/fr/conditions-d-utilisation/">Conditions d'utilisation</a>
+          </li>
+
+          <li>
+            <a href="/fr/avis-de-confidentialite/">Avis de confidentialité</a>
+          </li>
+
+          <li>
+            <a id="cookieLink" href="/fr/page-cookie/">Page Cookie</a>
+          </li>
+
+          <li>
+            <a href="/fr/juridique/">Informations juridiques</a>
+          </li>
+
+          
+          
+        </ul>
+    </div>
+
+    <span>©2023 Pokémon. ©1995 - 2023 Nintendo/Creatures Inc./GAME FREAK inc. TM, ®Nintendo.</span>
+
+  </div>
+
+</div>
+
+      
+    </div>
+    
+  </footer>
+
+
+  
+
+
+<div id="modal" class="popup">
+	<div class="externalLink">
+    <h6>
+
+      Vous allez quitter un site géré par The Pokémon Company International, Inc.
+
+    </h6>
+		<p>
+
+The Pokémon Company International décline toute responsabilité quant au contenu des sites Web vers lesquels des liens sont proposés et qui ne sont pas gérés par elle. Les politiques de sécurité et relatives à la vie privée appliquées par ces sites Web peuvent différer des normes utilisées par The Pokémon Company International.
+
+    </p>
+		<div class="buttons-wrapper">
+			<a href="#" class="button button-green arrow-right continueBtn">
+
+        Continuer
+
+      </a>
+			<a href="#" class="button button-darkgray arrow-left closeBtn">
+
+        Annuler
+
+      </a>
+		</div>
+	</div>
+</div>
+
+<div id="pokemon-center-modal" class="popup">
+	<div class="externalLink centerLink">
+    <h6>
+      Cliquez sur Continuer pour visiter PokemonCenter.com, notre boutique en ligne officielle.
+    </h6>
+    <h6>
+      Les politiques de sécurité et de protection de la vie privée sont différentes.
+    </h6>
+		<div class="buttons-wrapper">
+			<a href="#" class="button button-green arrow-right continueBtn">
+
+        Continuer
+
+      </a>
+			<a href="#" class="button button-darkgray arrow-left closeBtn" target="_blank">
+
+        Annuler
+
+      </a>
+		</div>
+	</div>
+</div>
+
+<div id="site-search-modal" class="popup">
+
+	<form id="site-search-widget" class="form-analytics" name="site-search-modal">
+		<span class="search"><input type="search" placeholder="Rechercher" name="search" id="site-search-widget-term" autocomplete="off" /></span>
+		<span class="submit icon icon_search"><input type="submit" value="" id="site-search-widget-submit"/></span>
+        <div id="modal-search-results"></div>
+	</form>
+</div>
+
+<div id='report-screen-name-success-modal' class='popup'>
+  <h6>Rapport de nom d'utilisateur inapproprié</h6>
+
+  <div class='modalBox'>
+    <img src="https://assets.pokemon.com/static2/_ui/img/chrome/external_link_bumper.png" alt="" class="hidden-mobile" />
+
+    <p>
+    Les administrateurs de Pokemon.fr ont été informés et vont s'assurer que ce nom d'utilisateur est conforme aux Conditions d'utilisation.
+    </p>
+
+    <div class='buttons-wrapper'>
+      <a href='#' class='button button-orange closeBtn'>
+        Fermer
+      </a>
+    </div>
+  </div>
+</div>
+
+<div id='report-screen-name-failure-modal' class='popup'>
+  <h6>Rapport de nom d'utilisateur inapproprié</h6>
+
+  <div class='modalBox'>
+    <img src="https://assets.pokemon.com/static2/_ui/img/chrome/external_link_bumper.png" alt="" class="hidden-mobile" />
+
+    <p>
+    Votre demande n'a pas pu être adressée. Veuillez réessayer. Si le problème persiste, veuillez contacter le Service client.
+    </p>
+
+    <div class='buttons-wrapper'>
+      <a href='#' class='button button-orange closeBtn'>
+        Fermer
+      </a>
+    </div>
+  </div>
+</div>
+
+<div id='popupScreen' class="popupScreen"></div>
+
+
+  
+
+
+ 
+
+
+</body>
+</html>
