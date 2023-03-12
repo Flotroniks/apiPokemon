@@ -31,6 +31,8 @@ dependencies {
 	annotationProcessor("org.springframework.boot:spring-boot-configuration-processor")
 	annotationProcessor("org.projectlombok:lombok")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
+	//gson
+	implementation("com.google.code.gson:gson:2.8.8")
 }
 
 tasks.withType<KotlinCompile> {

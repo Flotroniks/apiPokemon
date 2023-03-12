@@ -1,11 +1,7 @@
-package com.flotroniks.apipokemonkotlin.data.models.singleton
-
-import com.flotroniks.apipokemonkotlin.data.models.Pokemon
-
 object PokemonListSingleton {
     private var myData = listOf<Pokemon>()
 
-    fun addData(data : List<Pokemon>) {
+    fun setData(data : List<Pokemon>) {
         myData = data
     }
 

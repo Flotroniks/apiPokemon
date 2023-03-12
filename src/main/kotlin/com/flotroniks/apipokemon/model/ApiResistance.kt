@@ -1,4 +1,3 @@
-package com.flotroniks.apipokemonkotlin.data.models
 
 data class ApiResistance(
     val damage_multiplier : Double,
